@@ -1,4 +1,4 @@
-# COVID-19-Kz-2022
+# Sputnik-V reactogenicity and immunogenicity in the blood and mucosa: a prospective cohort study
 
 **Abstract**
 
